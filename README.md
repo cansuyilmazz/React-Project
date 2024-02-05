@@ -9,5 +9,5 @@ All The React Project Repositories
 | 05  | [Appointment App](https://github.com/cansuyilmazz/appointment-app)                      | [Webpage](https://rococo-palmier-34701f.netlify.app)                |
 | 06  | [Router App](https://github.com/cansuyilmazz/router-website)                            | [Webpage](https://friendly-queijadas-10e664.netlify.app)            |
 | 07  | [Movie App](https://github.com/cansuyilmazz/movie-app)                                  | [Webpage](https://heroic-centaur-db15f1.netlify.app)                |
-| 08  | [Tutorial App](https://github.com/cansuyilmazz/add-your-tutorial)                       | [Webpage](https://github.com/cansuyilmazz/add-your-tutorial)        |
+| 08  | [Tutorial App](https://github.com/cansuyilmazz/add-your-tutorial)                       | [Webpage](https://main--fabulous-tanuki-a06d2d.netlify.app)        |
 
